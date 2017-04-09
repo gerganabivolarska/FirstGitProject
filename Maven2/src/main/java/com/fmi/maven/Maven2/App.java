@@ -5,7 +5,7 @@ package com.fmi.maven.Maven2;
  *
  */
 public class App 
-{
+{//kjkjuhji
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
